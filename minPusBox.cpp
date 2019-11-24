@@ -6,9 +6,8 @@
 // https://leetcode.com/contest/weekly-contest-163/problems/minimum-moves-to-move-a-box-to-their-target-location/
 
 #include "lc_common.h"
-using namespace std;
 
-class Solutino_ref {
+class Solution_ref {
     // 什么时候用BFS, 什么时候用DFS，以及该怎么用
 public:
     //direction vector
